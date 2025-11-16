@@ -1,0 +1,17 @@
+{
+    "categorical_features": [
+        "location"
+    ],
+    "numeric_features": [
+        "area_sqft",
+        "bedrooms",
+        "bathrooms",
+        "house_age_years"
+    ],
+    "locations": [
+        "City Center",
+        "Near Park",
+        "Riverside",
+        "Suburb"
+    ]
+}
